@@ -10,4 +10,9 @@
 
 Run the following in your command-line:
 
-`brew tap LUSHDigital/homebrew-tools`
+`brew tap lushdigital/tools`
+
+### Available tools
+
+[modelgen](https://github.com/LUSHDigital/modelgen):
+`brew tap modelgen`
