@@ -14,5 +14,7 @@ Run the following in your command-line:
 
 ### Available tools
 
-[modelgen](https://github.com/LUSHDigital/modelgen):
-`brew tap modelgen`
+- [modelgen](https://github.com/LUSHDigital/modelgen):
+`brew install modelgen`
+- [litmus](https://github.com/LUSHDigital/litmus"):
+`brew install litmus`
