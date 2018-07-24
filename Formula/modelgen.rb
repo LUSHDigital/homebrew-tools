@@ -1,8 +1,8 @@
 class Modelgen < Formula
   desc "Generate models from reading your database"
   homepage "https://github.com/LUSHDigital/modelgen"
-  url "https://github.com/LUSHDigital/modelgen/archive/1.3.8.tar.gz"
-  sha256 "7cd1888749a73d95d83b109c15824c1c38ff463b40abeded57809d553105010d"
+  url "https://github.com/LUSHDigital/modelgen/archive/1.4.0.tar.gz"
+  sha256 "4c15ab24f73a2963a021af7e02a19ad8b854bc74539de49d14d94f9cc0b80fc4"
 
   depends_on "go" => :build
 
